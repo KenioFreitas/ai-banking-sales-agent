@@ -1,4 +1,4 @@
-# AI Banking Sales Agent — Agente de IA (Disparo ativo de WPP + URA ativa) para Vendas PJ
+# AI Banking Sales Agent: Agente de IA (Disparo ativo de WPP + URA ativa) para Vendas PJ
 
 > **Contexto:** Projeto desenvolvido em 2024–2025 durante atuação em fintech de serviços bancários. O agente realizava prospecção ativa de empresas (CNPJs) via WhatsApp e voz, conduzindo triagem automatizada e entregando leads qualificados para a equipe comercial fechar as vendas na plataforma bancária.
 
