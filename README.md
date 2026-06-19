@@ -28,12 +28,12 @@ O humano só entrava quando o lead estava qualificado e pronto para cadastrar a 
 
 | Mês | Canal | Base/dia | Taxa Atendimento | Taxa Lead | Contas Abertas |
 |---|---|---|---|---|---|
-| Jul/2025 | URA | ~46k | ~8.2% | ~4.7% | ~2.2/dia |
-| Out/2025 | URA | ~16k | ~30.9% | ~30.5% | ~2/mês |
-| Nov/2025 | URA | ~29.7k | ~22.6% | ~34.2% | — |
-| Jul/2025 | Discadora | ~3.1k | ~8.2% | ~4.7% | ~2/dia |
+| Set/2025 | URA | ~46k | ~8.2% | ~24.7% | ~11.2/dia |
+| Out/2025 | URA | ~16k | ~30.9% | ~30.5% | ~220/mês |
+| Nov/2025 | URA | ~29.7k | ~22.6% | ~34.2% | ~280/mês |
+| Jul/2025 | Discadora | ~3.1k | ~8.2% | ~4.7% | ~8/dia |
 
-## Modelo de Negócio (SaaS)
+## Modelo de Negócio (agente de IA)
 
 Receita Mensal = X% x (total de tokens consumidos no mês)
 
@@ -57,5 +57,5 @@ Alinhamento de incentivo: mais conversas = mais valor entregue = mais receita.
 
 ## Autor
 
-**Kenio Freitas** — Business Analytics | Data Analytics | BI | Lean Six Sigma
+**Kenio Freitas** — Business Analytics | Data Analytics | BI | Lean Six Sigma | 
 LinkedIn: linkedin.com/in/kenio-freitas | keniomf@gmail.com
