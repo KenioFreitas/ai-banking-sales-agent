@@ -1,4 +1,4 @@
-# AI Banking Sales Agent — Agente de IA Omnicanal para Vendas PJ
+# AI Banking Sales Agent — Agente de IA (Disparo ativo de WPP + URA ativa) para Vendas PJ
 
 > **Contexto:** Projeto desenvolvido em 2024–2025 durante atuação em fintech de serviços bancários. O agente realizava prospecção ativa de empresas (CNPJs) via WhatsApp e voz, conduzindo triagem automatizada e entregando leads qualificados para a equipe comercial fechar as vendas na plataforma bancária.
 
@@ -13,7 +13,7 @@ Uma corretora de soluções bancárias PJ precisava escalar prospecção ativa s
 - **Gargalo humano:** consultores gastavam tempo em triagem em vez de fechar negócios
 - **Múltiplos produtos:** conta PJ, crédito capital de giro, maquininha, antecipação de recebíveis, seguros
 
-## A Solução: Funil Omnicanal com Agente de IA
+## A Solução: Funil Omnichannel com Agente de IA
 
 Um agente treinado via **ChatGPT Custom** operando em dois canais simultâneos:
 
