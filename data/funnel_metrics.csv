@@ -1,0 +1,5 @@
+mes,canal,base_dia,spin_renitencia,tentativas,atendimentos,taxa_atendimento,completadas,taxa_completude,cpc,taxa_cpc,leads,taxa_lead,contas_abertas,taxa_abertura
+2025-07,discadora,3149,1.25,3924,320,0.082,283,0.885,163,0.577,8,0.047,2,0.280
+2025-07,ura,46183,1.004,46367,3801,0.082,3364,0.885,1940,0.577,91,0.047,10,0.110
+2025-10,ura,16000,1.000,16000,4944,0.309,126,0.008,39,0.306,12,0.305,2,0.167
+2025-11,ura,29700,1.000,29700,6712,0.226,248,0.008,76,0.306,26,0.342,0,0.000
